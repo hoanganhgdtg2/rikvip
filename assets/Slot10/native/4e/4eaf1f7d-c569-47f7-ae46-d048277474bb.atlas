@@ -1,0 +1,132 @@
+
+Symbol_5.png
+size: 687,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Amulet
+  rotate: false
+  xy: 383, 135
+  size: 143, 78
+  orig: 143, 78
+  offset: 0, 0
+  index: -1
+Amulet_Shadow
+  rotate: false
+  xy: 384, 215
+  size: 145, 16
+  orig: 145, 16
+  offset: 0, 0
+  index: -1
+Fire/Fire_00
+  rotate: false
+  xy: 2, 231
+  size: 126, 101
+  orig: 131, 104
+  offset: 1, 3
+  index: -1
+Fire/Fire_01
+  rotate: false
+  xy: 2, 129
+  size: 126, 100
+  orig: 131, 104
+  offset: 1, 4
+  index: -1
+Fire/Fire_02
+  rotate: false
+  xy: 384, 233
+  size: 124, 99
+  orig: 131, 104
+  offset: 2, 3
+  index: -1
+Fire/Fire_03
+  rotate: false
+  xy: 257, 130
+  size: 124, 100
+  orig: 131, 104
+  offset: 2, 3
+  index: -1
+Fire/Fire_04
+  rotate: false
+  xy: 510, 233
+  size: 123, 99
+  orig: 131, 104
+  offset: 3, 3
+  index: -1
+Fire/Fire_05
+  rotate: true
+  xy: 310, 5
+  size: 123, 100
+  orig: 131, 104
+  offset: 3, 2
+  index: -1
+Fire/Fire_06
+  rotate: true
+  xy: 412, 10
+  size: 123, 100
+  orig: 131, 104
+  offset: 3, 2
+  index: -1
+Fire/Fire_07
+  rotate: true
+  xy: 514, 10
+  size: 123, 100
+  orig: 131, 104
+  offset: 3, 3
+  index: -1
+Fire/Fire_08
+  rotate: true
+  xy: 2, 2
+  size: 125, 101
+  orig: 131, 104
+  offset: 2, 2
+  index: -1
+Fire/Fire_09
+  rotate: false
+  xy: 130, 129
+  size: 125, 100
+  orig: 131, 104
+  offset: 2, 3
+  index: -1
+Fire/Fire_10
+  rotate: true
+  xy: 208, 2
+  size: 125, 100
+  orig: 131, 104
+  offset: 2, 3
+  index: -1
+Fire/Fire_11
+  rotate: false
+  xy: 257, 232
+  size: 125, 100
+  orig: 131, 104
+  offset: 2, 4
+  index: -1
+Fire/Fire_12
+  rotate: true
+  xy: 105, 2
+  size: 125, 101
+  orig: 131, 104
+  offset: 1, 3
+  index: -1
+Fire/Fire_13
+  rotate: false
+  xy: 130, 231
+  size: 125, 101
+  orig: 131, 104
+  offset: 1, 3
+  index: -1
+Text
+  rotate: false
+  xy: 531, 170
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+Text_Glow
+  rotate: true
+  xy: 616, 57
+  size: 111, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1

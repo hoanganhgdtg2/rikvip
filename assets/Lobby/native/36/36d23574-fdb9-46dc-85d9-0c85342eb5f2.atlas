@@ -1,0 +1,496 @@
+
+iconslotcandy.png
+size: 619,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-Rounded Rectangle 1 copy 2
+  rotate: false
+  xy: 1, 112
+  size: 249, 136
+  orig: 249, 136
+  offset: 0, 0
+  index: -1
+Group 25 copy 2
+  rotate: false
+  xy: 1, 250
+  size: 253, 364
+  orig: 253, 364
+  offset: 0, 0
+  index: -1
+Group 60
+  rotate: false
+  xy: 1, 616
+  size: 266, 415
+  orig: 266, 415
+  offset: 0, 0
+  index: -1
+Group 68
+  rotate: false
+  xy: 269, 665
+  size: 249, 366
+  orig: 249, 366
+  offset: 0, 0
+  index: -1
+ao
+  rotate: false
+  xy: 523, 41
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+asangkiem
+  rotate: false
+  xy: 256, 457
+  size: 182, 157
+  orig: 182, 157
+  offset: 0, 0
+  index: -1
+bantaychemngang
+  rotate: true
+  xy: 570, 6
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+bantaynamkiem
+  rotate: true
+  xy: 417, 24
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: false
+  xy: 598, 717
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+bantaytrai
+  rotate: true
+  xy: 588, 59
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+bao kiem
+  rotate: true
+  xy: 520, 671
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+baptaychemngang
+  rotate: true
+  xy: 588, 246
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+baptayphai
+  rotate: false
+  xy: 595, 554
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+baptaytrai
+  rotate: false
+  xy: 557, 182
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+baptaytrainamkiem
+  rotate: true
+  xy: 580, 768
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+bocchanphai
+  rotate: false
+  xy: 595, 534
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+bocchantrai
+  rotate: false
+  xy: 598, 696
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+cangtayphai
+  rotate: false
+  xy: 596, 158
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+cangtaytrai
+  rotate: false
+  xy: 588, 85
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+cangtaytrainamkiem
+  rotate: false
+  xy: 580, 810
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+chem
+  rotate: true
+  xy: 523, 12
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+chuoikiem
+  rotate: false
+  xy: 588, 220
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+chuoikiemchem
+  rotate: true
+  xy: 590, 469
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 452, 208
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+face_shadow
+  rotate: true
+  xy: 560, 534
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+giayphai
+  rotate: true
+  xy: 596, 19
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+giaytrai
+  rotate: false
+  xy: 595, 590
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: true
+  xy: 532, 528
+  size: 141, 26
+  orig: 141, 26
+  offset: 0, 0
+  index: -1
+kiemchem
+  rotate: true
+  xy: 580, 837
+  size: 194, 28
+  orig: 194, 28
+  offset: 0, 0
+  index: -1
+ktim
+  rotate: false
+  xy: 437, 20
+  size: 84, 79
+  orig: 84, 79
+  offset: 0, 0
+  index: -1
+ktim_manh6
+  rotate: true
+  xy: 572, 671
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+ktim_manh7
+  rotate: true
+  xy: 551, 233
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 452, 346
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+longmayphai
+  rotate: true
+  xy: 584, 158
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+longmaytrai
+  rotate: false
+  xy: 551, 221
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+mimatduoiphai
+  rotate: false
+  xy: 588, 42
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+mimatduoitrai
+  rotate: false
+  xy: 417, 1
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+mimatphai
+  rotate: false
+  xy: 596, 118
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+mimattrai
+  rotate: false
+  xy: 469, 2
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+non
+  rotate: false
+  xy: 452, 276
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+qsangcandy_00
+  rotate: false
+  xy: 269, 616
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_01
+  rotate: false
+  xy: 1, 63
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_02
+  rotate: false
+  xy: 1, 14
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_03
+  rotate: true
+  xy: 256, 199
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_04
+  rotate: true
+  xy: 305, 199
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_05
+  rotate: true
+  xy: 354, 199
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_06
+  rotate: true
+  xy: 403, 199
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_07
+  rotate: false
+  xy: 252, 150
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+qsangcandy_08
+  rotate: false
+  xy: 259, 101
+  size: 256, 47
+  orig: 256, 47
+  offset: 0, 0
+  index: -1
+quanphai
+  rotate: true
+  xy: 517, 106
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+quantrai
+  rotate: true
+  xy: 510, 153
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+raunon
+  rotate: true
+  xy: 440, 465
+  size: 149, 90
+  orig: 149, 90
+  offset: 0, 0
+  index: -1
+raunon_keo
+  rotate: false
+  xy: 570, 384
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+ta 1
+  rotate: true
+  xy: 570, 347
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+ta 2
+  rotate: true
+  xy: 563, 116
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+ta3
+  rotate: false
+  xy: 557, 153
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+tai non trai
+  rotate: false
+  xy: 560, 610
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+tai non trai 2
+  rotate: true
+  xy: 572, 732
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+tainonphai
+  rotate: false
+  xy: 558, 287
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+tainonphai2
+  rotate: true
+  xy: 598, 738
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+text1
+  rotate: true
+  xy: 520, 767
+  size: 264, 58
+  orig: 264, 58
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 259, 55
+  size: 176, 44
+  orig: 176, 44
+  offset: 0, 0
+  index: -1
+tnho
+  rotate: false
+  xy: 532, 465
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+trongmatphai
+  rotate: false
+  xy: 450, 1
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+trongmattrai
+  rotate: true
+  xy: 598, 675
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trongtrangphai
+  rotate: false
+  xy: 596, 134
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+trongtrangtrai
+  rotate: true
+  xy: 572, 699
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+vai phai
+  rotate: false
+  xy: 588, 186
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+vai trai
+  rotate: true
+  xy: 570, 423
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+vetchem
+  rotate: false
+  xy: 259, 9
+  size: 156, 44
+  orig: 156, 44
+  offset: 0, 0
+  index: -1

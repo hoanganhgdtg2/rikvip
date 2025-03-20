@@ -1,0 +1,293 @@
+
+animicon_xeng.png
+size: 1936,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animxu00
+  rotate: false
+  xy: 585, 60
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+animxu01
+  rotate: false
+  xy: 672, 5
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+animxu02
+  rotate: false
+  xy: 759, 5
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+animxu03
+  rotate: false
+  xy: 846, 5
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+animxu04
+  rotate: false
+  xy: 933, 5
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+animxu05
+  rotate: false
+  xy: 1020, 5
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+animxu06
+  rotate: false
+  xy: 1107, 5
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+bang
+  rotate: false
+  xy: 1, 29
+  size: 228, 74
+  orig: 228, 74
+  offset: 0, 0
+  index: -1
+cam
+  rotate: true
+  xy: 1753, 1
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+chuong
+  rotate: false
+  xy: 672, 92
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+denkhung
+  rotate: false
+  xy: 267, 164
+  size: 262, 354
+  orig: 262, 354
+  offset: 0, 0
+  index: -1
+dua
+  rotate: false
+  xy: 1194, 14
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+dua_effect
+  rotate: false
+  xy: 482, 42
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+efect
+  rotate: false
+  xy: 531, 296
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+effect_quetsang00
+  rotate: true
+  xy: 1819, 305
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+effect_quetsang01
+  rotate: false
+  xy: 267, 84
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+effect_quetsang02
+  rotate: false
+  xy: 755, 241
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+effect_quetsang03
+  rotate: false
+  xy: 970, 241
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+effect_quetsang04
+  rotate: false
+  xy: 1185, 241
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+effect_quetsang05
+  rotate: false
+  xy: 1400, 241
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+effect_quetsang06
+  rotate: false
+  xy: 231, 4
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+hoa qua
+  rotate: true
+  xy: 1521, 26
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: true
+  xy: 1899, 318
+  size: 200, 36
+  orig: 200, 36
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 1, 105
+  size: 264, 413
+  orig: 264, 413
+  offset: 0, 0
+  index: -1
+khung_effect_00
+  rotate: false
+  xy: 907, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_01
+  rotate: false
+  xy: 1059, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_02
+  rotate: false
+  xy: 1211, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_03
+  rotate: false
+  xy: 1363, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_04
+  rotate: false
+  xy: 1515, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_05
+  rotate: false
+  xy: 1667, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_06
+  rotate: true
+  xy: 531, 144
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_07
+  rotate: true
+  xy: 1615, 169
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_08
+  rotate: true
+  xy: 730, 89
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_09
+  rotate: true
+  xy: 929, 89
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_10
+  rotate: true
+  xy: 1128, 89
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+khung_effect_11
+  rotate: false
+  xy: 755, 321
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 1753, 39
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+sao_effect
+  rotate: true
+  xy: 1601, 21
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+tao
+  rotate: false
+  xy: 1814, 151
+  size: 109, 152
+  orig: 109, 152
+  offset: 0, 0
+  index: -1
+tao_effect
+  rotate: true
+  xy: 1327, 89
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+xeng
+  rotate: true
+  xy: 1862, 4
+  size: 145, 60
+  orig: 145, 60
+  offset: 0, 0
+  index: -1

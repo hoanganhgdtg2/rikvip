@@ -1,0 +1,20 @@
+
+Symbol_7.png
+size: 123,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vase/Vase
+  rotate: false
+  xy: 64, 4
+  size: 57, 117
+  orig: 57, 117
+  offset: 0, 0
+  index: -1
+Vase/Vase_Shadow
+  rotate: false
+  xy: 2, 2
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1

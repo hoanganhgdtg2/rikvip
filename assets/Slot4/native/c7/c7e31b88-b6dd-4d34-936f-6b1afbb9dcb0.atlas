@@ -1,0 +1,195 @@
+
+Symbol_A.png
+size: 756,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame Shadow
+  rotate: false
+  xy: 143, 2
+  size: 162, 41
+  orig: 162, 41
+  offset: 0, 0
+  index: -1
+bat tien
+  rotate: true
+  xy: 564, 22
+  size: 122, 47
+  orig: 122, 47
+  offset: 0, 0
+  index: -1
+bat tien1
+  rotate: true
+  xy: 613, 22
+  size: 122, 47
+  orig: 122, 47
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 463, 16
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 612, 445
+  size: 139, 73
+  orig: 139, 73
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 143, 45
+  size: 145, 63
+  orig: 145, 63
+  offset: 0, 0
+  index: -1
+cot
+  rotate: true
+  xy: 307, 20
+  size: 27, 154
+  orig: 27, 154
+  offset: 0, 0
+  index: -1
+cot vang
+  rotate: false
+  xy: 2, 2
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+flag1
+  rotate: false
+  xy: 442, 82
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: true
+  xy: 622, 198
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+flag3
+  rotate: true
+  xy: 75, 4
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 742, 276
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+glow1 back
+  rotate: false
+  xy: 442, 350
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+glow2 back
+  rotate: false
+  xy: 2, 110
+  size: 438, 408
+  orig: 438, 408
+  offset: 0, 0
+  index: -1
+left gate
+  rotate: true
+  xy: 612, 385
+  size: 58, 141
+  orig: 58, 141
+  offset: 0, 0
+  index: -1
+oval1
+  rotate: true
+  xy: 442, 111
+  size: 80, 105
+  orig: 80, 105
+  offset: 0, 0
+  index: -1
+qua hai
+  rotate: true
+  xy: 662, 34
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+qua hai1
+  rotate: false
+  xy: 569, 148
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+right gate
+  rotate: false
+  xy: 682, 146
+  size: 58, 141
+  orig: 58, 141
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: true
+  xy: 569, 202
+  size: 146, 51
+  orig: 146, 51
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 442, 193
+  size: 125, 155
+  orig: 125, 155
+  offset: 0, 0
+  index: -1
+ship
+  rotate: true
+  xy: 682, 289
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+ship wing
+  rotate: false
+  xy: 307, 4
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+sky
+  rotate: true
+  xy: 712, 63
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 2, 34
+  size: 139, 74
+  orig: 139, 74
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 290, 49
+  size: 145, 59
+  orig: 145, 59
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: true
+  xy: 622, 237
+  size: 146, 58
+  orig: 146, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Symbol_8.png
+size: 180,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cake/Cake
+  rotate: false
+  xy: 92, 4
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+Cake/Cake_Shadow
+  rotate: false
+  xy: 2, 2
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1

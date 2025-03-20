@@ -1,0 +1,160 @@
+
+Btn_Spin.png
+size: 497,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bat
+  rotate: false
+  xy: 474, 238
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+Bat2
+  rotate: false
+  xy: 362, 16
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 55
+  size: 149, 156
+  orig: 149, 156
+  offset: 0, 0
+  index: -1
+Green
+  rotate: false
+  xy: 170, 260
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+GreenLight
+  rotate: false
+  xy: 2, 213
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+Light/01
+  rotate: false
+  xy: 274, 143
+  size: 16, 49
+  orig: 121, 121
+  offset: 0, 38
+  index: -1
+Light/02
+  rotate: true
+  xy: 391, 8
+  size: 23, 73
+  orig: 121, 121
+  offset: 0, 25
+  index: -1
+Light/03
+  rotate: false
+  xy: 415, 33
+  size: 32, 100
+  orig: 121, 121
+  offset: 3, 9
+  index: -1
+Light/04
+  rotate: true
+  xy: 2, 12
+  size: 41, 112
+  orig: 121, 121
+  offset: 6, 5
+  index: -1
+Light/05
+  rotate: true
+  xy: 170, 194
+  size: 64, 121
+  orig: 121, 121
+  offset: 8, 0
+  index: -1
+Light/06
+  rotate: false
+  xy: 412, 258
+  size: 76, 121
+  orig: 121, 121
+  offset: 17, 0
+  index: -1
+Light/07
+  rotate: false
+  xy: 293, 137
+  size: 90, 121
+  orig: 121, 121
+  offset: 21, 0
+  index: -1
+Light/08
+  rotate: false
+  xy: 385, 135
+  size: 87, 121
+  orig: 121, 121
+  offset: 28, 0
+  index: -1
+Light/09
+  rotate: false
+  xy: 274, 14
+  size: 86, 121
+  orig: 121, 121
+  offset: 35, 0
+  index: -1
+Light/10
+  rotate: true
+  xy: 153, 2
+  size: 69, 119
+  orig: 121, 121
+  offset: 52, 0
+  index: -1
+Light/11
+  rotate: false
+  xy: 362, 34
+  size: 51, 99
+  orig: 121, 121
+  offset: 70, 2
+  index: -1
+Light/12
+  rotate: false
+  xy: 116, 3
+  size: 31, 50
+  orig: 121, 121
+  offset: 90, 11
+  index: -1
+Particle_Green
+  rotate: false
+  xy: 484, 246
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 291, 260
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 449, 87
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Stop Disable
+  rotate: false
+  xy: 449, 39
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dissible
+  rotate: false
+  xy: 153, 73
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

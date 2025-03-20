@@ -1,0 +1,300 @@
+
+icon_aviator.png
+size: 1684,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+du1
+  rotate: false
+  xy: 1199, 148
+  size: 186, 186
+  orig: 186, 198
+  offset: 0, 12
+  index: -1
+du2
+  rotate: true
+  xy: 933, 4
+  size: 92, 90
+  orig: 96, 92
+  offset: 1, 0
+  index: -1
+du3
+  rotate: false
+  xy: 335, 5
+  size: 61, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+du4
+  rotate: false
+  xy: 843, 20
+  size: 58, 61
+  orig: 63, 69
+  offset: 5, 7
+  index: -1
+fire0
+  rotate: true
+  xy: 398, 7
+  size: 61, 71
+  orig: 66, 76
+  offset: 3, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 2, 3
+  size: 65, 71
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 75, 4
+  size: 64, 71
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 261, 5
+  size: 63, 72
+  orig: 66, 76
+  offset: 1, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 719, 10
+  size: 60, 71
+  orig: 66, 76
+  offset: 4, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 533, 9
+  size: 60, 72
+  orig: 66, 76
+  offset: 4, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 471, 8
+  size: 60, 73
+  orig: 66, 76
+  offset: 4, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 595, 9
+  size: 60, 72
+  orig: 66, 76
+  offset: 4, 0
+  index: -1
+fire8
+  rotate: false
+  xy: 781, 10
+  size: 60, 71
+  orig: 66, 76
+  offset: 4, 0
+  index: -1
+fire9
+  rotate: false
+  xy: 657, 9
+  size: 60, 72
+  orig: 66, 76
+  offset: 4, 0
+  index: -1
+highlight0
+  rotate: true
+  xy: 415, 72
+  size: 9, 51
+  orig: 9, 51
+  offset: 0, 0
+  index: -1
+highlight1
+  rotate: true
+  xy: 1199, 117
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+highlight10
+  rotate: true
+  xy: 843, 2
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+highlight11
+  rotate: false
+  xy: 1049, 6
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+highlight12
+  rotate: false
+  xy: 1464, 111
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+highlight2
+  rotate: false
+  xy: 1662, 35
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+highlight3
+  rotate: false
+  xy: 903, 21
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+highlight4
+  rotate: false
+  xy: 1025, 6
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+highlight5
+  rotate: false
+  xy: 1025, 42
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+highlight6
+  rotate: false
+  xy: 1662, 57
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+highlight7
+  rotate: true
+  xy: 903, 76
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+highlight8
+  rotate: false
+  xy: 1430, 111
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+highlight9
+  rotate: true
+  xy: 895, 2
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+icon_aviator10
+  rotate: true
+  xy: 2, 70
+  size: 264, 411
+  orig: 287, 484
+  offset: 11, 16
+  index: -1
+icon_aviator5
+  rotate: true
+  xy: 1033, 113
+  size: 221, 164
+  orig: 221, 164
+  offset: 0, 0
+  index: -1
+icon_aviator6
+  rotate: true
+  xy: 148, 4
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+icon_aviator9
+  rotate: true
+  xy: 415, 83
+  size: 251, 362
+  orig: 251, 362
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 895, 98
+  size: 236, 136
+  orig: 236, 139
+  offset: 0, 3
+  index: -1
+logonguoc
+  rotate: true
+  xy: 779, 83
+  size: 251, 114
+  orig: 251, 114
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 213, 4
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+thunder0
+  rotate: true
+  xy: 1327, 5
+  size: 141, 101
+  orig: 171, 111
+  offset: 14, 5
+  index: -1
+thunder1
+  rotate: true
+  xy: 1229, 3
+  size: 143, 96
+  orig: 171, 111
+  offset: 14, 6
+  index: -1
+thunder2
+  rotate: true
+  xy: 1387, 165
+  size: 169, 111
+  orig: 171, 111
+  offset: 2, 0
+  index: -1
+thunder3
+  rotate: false
+  xy: 1500, 223
+  size: 169, 111
+  orig: 171, 111
+  offset: 2, 0
+  index: -1
+thunder4
+  rotate: false
+  xy: 1500, 110
+  size: 166, 111
+  orig: 171, 111
+  offset: 5, 0
+  index: -1
+thunder5
+  rotate: false
+  xy: 1071, 2
+  size: 156, 109
+  orig: 171, 111
+  offset: 11, 0
+  index: -1
+thunder6
+  rotate: false
+  xy: 1430, 11
+  size: 114, 97
+  orig: 171, 111
+  offset: 27, 4
+  index: -1
+thunder7
+  rotate: false
+  xy: 1546, 12
+  size: 114, 96
+  orig: 171, 111
+  offset: 27, 4
+  index: -1

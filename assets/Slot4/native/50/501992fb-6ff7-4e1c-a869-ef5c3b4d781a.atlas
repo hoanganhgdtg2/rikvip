@@ -1,0 +1,118 @@
+
+Symbol_K.png
+size: 786,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_Bright
+  rotate: true
+  xy: 576, 5
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 411, 329
+  size: 89, 209
+  orig: 89, 209
+  offset: 0, 0
+  index: -1
+Frame Shadow
+  rotate: false
+  xy: 622, 377
+  size: 162, 41
+  orig: 162, 41
+  offset: 0, 0
+  index: -1
+I_Bright
+  rotate: false
+  xy: 774, 340
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+L_Bright
+  rotate: false
+  xy: 592, 38
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+La1Light
+  rotate: true
+  xy: 621, 157
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+La2Light
+  rotate: true
+  xy: 667, 164
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+La3Light
+  rotate: false
+  xy: 686, 34
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 411, 157
+  size: 170, 208
+  orig: 170, 208
+  offset: 0, 0
+  index: -1
+Ruby_Green
+  rotate: true
+  xy: 622, 247
+  size: 128, 150
+  orig: 128, 150
+  offset: 0, 0
+  index: -1
+Ruby_Green_Glow
+  rotate: false
+  xy: 411, 7
+  size: 126, 148
+  orig: 126, 148
+  offset: 0, 0
+  index: -1
+W_Bright
+  rotate: true
+  xy: 539, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 539, 35
+  size: 120, 51
+  orig: 120, 51
+  offset: 0, 0
+  index: -1
+eff_particle_1
+  rotate: false
+  xy: 618, 7
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 592, 75
+  size: 190, 80
+  orig: 190, 80
+  offset: 0, 0
+  index: -1
+glow_yellow
+  rotate: true
+  xy: 2, 10
+  size: 408, 407
+  orig: 408, 407
+  offset: 0, 0
+  index: -1

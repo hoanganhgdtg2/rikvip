@@ -1,0 +1,272 @@
+
+Symbol_R.png
+size: 962,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dish
+  rotate: false
+  xy: 215, 158
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1
+Keo/Keo_01
+  rotate: true
+  xy: 592, 298
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_02
+  rotate: false
+  xy: 608, 204
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_03
+  rotate: true
+  xy: 686, 298
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_04
+  rotate: false
+  xy: 670, 204
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_05
+  rotate: true
+  xy: 780, 298
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_06
+  rotate: false
+  xy: 732, 204
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_07
+  rotate: false
+  xy: 794, 204
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_08
+  rotate: false
+  xy: 874, 266
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_09
+  rotate: true
+  xy: 856, 204
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_10
+  rotate: true
+  xy: 413, 113
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_11
+  rotate: true
+  xy: 524, 138
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_12
+  rotate: true
+  xy: 618, 142
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_13
+  rotate: true
+  xy: 712, 142
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_14
+  rotate: true
+  xy: 806, 142
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_15
+  rotate: false
+  xy: 900, 110
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_16
+  rotate: true
+  xy: 507, 76
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_17
+  rotate: true
+  xy: 215, 96
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_18
+  rotate: true
+  xy: 309, 96
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_19
+  rotate: true
+  xy: 403, 51
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_20
+  rotate: true
+  xy: 497, 14
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_21
+  rotate: true
+  xy: 618, 80
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_22
+  rotate: true
+  xy: 712, 80
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_23
+  rotate: true
+  xy: 806, 80
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_24
+  rotate: false
+  xy: 181, 2
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_25
+  rotate: false
+  xy: 243, 2
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_26
+  rotate: false
+  xy: 305, 2
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_27
+  rotate: false
+  xy: 900, 16
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_28
+  rotate: true
+  xy: 601, 18
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_29
+  rotate: true
+  xy: 695, 18
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo/Keo_30
+  rotate: true
+  xy: 789, 18
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Keo_Bright
+  rotate: false
+  xy: 413, 175
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Keo_Shadow
+  rotate: false
+  xy: 524, 200
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+Light_Arc
+  rotate: false
+  xy: 2, 9
+  size: 155, 81
+  orig: 155, 81
+  offset: 0, 0
+  index: -1
+Light_Ray
+  rotate: false
+  xy: 2, 154
+  size: 211, 204
+  orig: 211, 204
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 367, 11
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 92
+  size: 177, 60
+  orig: 177, 60
+  offset: 0, 0
+  index: -1
+Text_Glow
+  rotate: false
+  xy: 413, 298
+  size: 177, 60
+  orig: 177, 60
+  offset: 0, 0
+  index: -1

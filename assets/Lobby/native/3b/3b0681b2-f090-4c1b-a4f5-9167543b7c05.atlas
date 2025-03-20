@@ -1,0 +1,300 @@
+
+IconMyNu.png
+size: 650,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 175, 333
+  size: 130, 187
+  orig: 130, 187
+  offset: 0, 0
+  index: -1
+KhungT
+  rotate: false
+  xy: 4, 107
+  size: 134, 413
+  orig: 134, 413
+  offset: 0, 0
+  index: -1
+KhungTien
+  rotate: true
+  xy: 505, 390
+  size: 130, 139
+  orig: 130, 139
+  offset: 0, 0
+  index: -1
+Text-LADY
+  rotate: false
+  xy: 475, 178
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+Text-NC
+  rotate: true
+  xy: 309, 340
+  size: 180, 22
+  orig: 180, 22
+  offset: 0, 0
+  index: -1
+dark
+  rotate: true
+  xy: 475, 50
+  size: 124, 46
+  orig: 124, 46
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 142, 308
+  size: 29, 212
+  orig: 29, 212
+  offset: 0, 0
+  index: -1
+den-sang
+  rotate: false
+  xy: 221, 310
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+den-toi
+  rotate: false
+  xy: 297, 310
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+g1-body
+  rotate: false
+  xy: 348, 118
+  size: 123, 142
+  orig: 123, 142
+  offset: 0, 0
+  index: -1
+g1-co
+  rotate: false
+  xy: 361, 368
+  size: 140, 152
+  orig: 140, 152
+  offset: 0, 0
+  index: -1
+g1-dau
+  rotate: false
+  xy: 202, 10
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+g1-moi
+  rotate: true
+  xy: 335, 336
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+g1-tay
+  rotate: true
+  xy: 505, 340
+  size: 46, 135
+  orig: 46, 135
+  offset: 0, 0
+  index: -1
+g1-toc
+  rotate: false
+  xy: 360, 33
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+g1-tocmai
+  rotate: false
+  xy: 432, 42
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+g1-tocmai2
+  rotate: false
+  xy: 567, 89
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+g1-toctrai1
+  rotate: true
+  xy: 382, 273
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+g2-body
+  rotate: false
+  xy: 142, 115
+  size: 154, 189
+  orig: 154, 189
+  offset: 0, 0
+  index: -1
+g2-eyes
+  rotate: true
+  xy: 525, 50
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+g2-head
+  rotate: true
+  xy: 96, 6
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+g2-moi
+  rotate: false
+  xy: 356, 337
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+g2-sangdai
+  rotate: true
+  xy: 335, 358
+  size: 162, 22
+  orig: 162, 22
+  offset: 0, 0
+  index: -1
+g2-sangtron
+  rotate: true
+  xy: 525, 88
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+g2-tay
+  rotate: false
+  xy: 300, 117
+  size: 44, 152
+  orig: 44, 152
+  offset: 0, 0
+  index: -1
+g2-toc1
+  rotate: true
+  xy: 499, 274
+  size: 62, 142
+  orig: 62, 142
+  offset: 0, 0
+  index: -1
+g2-toc1b
+  rotate: true
+  xy: 525, 142
+  size: 32, 112
+  orig: 32, 112
+  offset: 0, 0
+  index: -1
+g2-toc2
+  rotate: true
+  xy: 452, 4
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+highlightP
+  rotate: false
+  xy: 4, 5
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+highlightT
+  rotate: false
+  xy: 296, 15
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+neon-B
+  rotate: false
+  xy: 348, 264
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+neon-C
+  rotate: true
+  xy: 360, 5
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-G
+  rotate: true
+  xy: 406, 5
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-H
+  rotate: false
+  xy: 510, 4
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-I
+  rotate: false
+  xy: 633, 228
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+neon-L
+  rotate: true
+  xy: 175, 308
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+neon-N
+  rotate: true
+  xy: 300, 273
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+neon-T
+  rotate: false
+  xy: 538, 4
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-U
+  rotate: false
+  xy: 620, 53
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+sangduoi
+  rotate: true
+  xy: 499, 220
+  size: 50, 130
+  orig: 50, 130
+  offset: 0, 0
+  index: -1
+tamgiac
+  rotate: true
+  xy: 620, 99
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+xu
+  rotate: false
+  xy: 562, 56
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1

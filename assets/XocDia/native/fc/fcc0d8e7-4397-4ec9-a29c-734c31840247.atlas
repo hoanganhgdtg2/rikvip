@@ -1,0 +1,104 @@
+
+dealer xoc dia.png
+size: 960,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-chen new
+  rotate: true
+  xy: 1, 13
+  size: 222, 285
+  orig: 222, 285
+  offset: 0, 0
+  index: -1
+-e-dia new
+  rotate: true
+  xy: 288, 1
+  size: 234, 210
+  orig: 234, 210
+  offset: 0, 0
+  index: -1
+bap tay moi trai
+  rotate: false
+  xy: 786, 3
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+bap tay trai
+  rotate: true
+  xy: 500, 1
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+cang tay moi trai3
+  rotate: false
+  xy: 640, 9
+  size: 83, 23
+  orig: 83, 23
+  offset: 0, 0
+  index: -1
+do
+  rotate: true
+  xy: 822, 14
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+ghe
+  rotate: false
+  xy: 500, 34
+  size: 176, 201
+  orig: 176, 201
+  offset: 0, 0
+  index: -1
+mat nham phai
+  rotate: true
+  xy: 1, 1
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+mat nham trai
+  rotate: true
+  xy: 11, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+tay phai
+  rotate: true
+  xy: 725, 4
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+tay trai
+  rotate: false
+  xy: 569, 3
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+than nguoi
+  rotate: true
+  xy: 678, 59
+  size: 87, 281
+  orig: 87, 281
+  offset: 0, 0
+  index: -1
+than nguoi1
+  rotate: true
+  xy: 678, 148
+  size: 87, 281
+  orig: 87, 281
+  offset: 0, 0
+  index: -1
+trang
+  rotate: true
+  xy: 857, 14
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1

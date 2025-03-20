@@ -1,0 +1,146 @@
+
+logo_sieutoc.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-logo copy 2
+  rotate: false
+  xy: 279, 188
+  size: 220, 65
+  orig: 220, 65
+  offset: 0, 0
+  index: -1
+-e-logo copy 3
+  rotate: false
+  xy: 279, 121
+  size: 220, 65
+  orig: 220, 65
+  offset: 0, 0
+  index: -1
+Comp 1_00000
+  rotate: false
+  xy: 684, 7
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 753, 7
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 203, 2
+  size: 178, 52
+  orig: 178, 52
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 279, 58
+  size: 199, 61
+  orig: 199, 61
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 501, 181
+  size: 194, 72
+  orig: 194, 72
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 697, 181
+  size: 194, 72
+  orig: 194, 72
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 697, 181
+  size: 194, 72
+  orig: 194, 72
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: true
+  xy: 203, 56
+  size: 197, 74
+  orig: 197, 74
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 793, 106
+  size: 188, 73
+  orig: 188, 73
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 480, 58
+  size: 153, 61
+  orig: 153, 61
+  offset: 0, 0
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 635, 58
+  size: 156, 64
+  orig: 156, 64
+  offset: 0, 0
+  index: -1
+Comp 1_00011
+  rotate: false
+  xy: 635, 58
+  size: 156, 64
+  orig: 156, 64
+  offset: 0, 0
+  index: -1
+Comp 1_00012
+  rotate: false
+  xy: 822, 42
+  size: 134, 62
+  orig: 134, 62
+  offset: 0, 0
+  index: -1
+Comp 1_00013
+  rotate: false
+  xy: 533, 4
+  size: 149, 52
+  orig: 149, 52
+  offset: 0, 0
+  index: -1
+Comp 1_00017
+  rotate: false
+  xy: 383, 3
+  size: 148, 53
+  orig: 148, 53
+  offset: 0, 0
+  index: -1
+Comp 1_00019
+  rotate: false
+  xy: 501, 122
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+Comp 1_00022
+  rotate: false
+  xy: 574, 124
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 28
+  size: 199, 225
+  orig: 199, 225
+  offset: 0, 0
+  index: -1

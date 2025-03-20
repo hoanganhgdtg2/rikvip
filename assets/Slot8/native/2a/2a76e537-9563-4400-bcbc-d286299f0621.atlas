@@ -1,0 +1,118 @@
+
+UI_Crystal_Charge_Bar.png
+size: 188,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crystal
+  rotate: true
+  xy: 72, 37
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Crystal_Bright_Blue
+  rotate: true
+  xy: 126, 38
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0000_1
+  rotate: false
+  xy: 94, 249
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0001_2
+  rotate: true
+  xy: 2, 2
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0002_3
+  rotate: true
+  xy: 96, 323
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0003_4
+  rotate: true
+  xy: 97, 419
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0004_5
+  rotate: true
+  xy: 2, 93
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0005_6
+  rotate: true
+  xy: 2, 172
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0006_7
+  rotate: true
+  xy: 87, 169
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0007_8
+  rotate: false
+  xy: 84, 92
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+Electric_Ball_Stage4/ELectric_Ball_0008_9
+  rotate: false
+  xy: 2, 250
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: true
+  xy: 2, 420
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+Glow_Bright_Blue
+  rotate: true
+  xy: 2, 327
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+Lighting_1
+  rotate: true
+  xy: 72, 5
+  size: 30, 73
+  orig: 30, 73
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: true
+  xy: 170, 402
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Spark1
+  rotate: false
+  xy: 147, 7
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

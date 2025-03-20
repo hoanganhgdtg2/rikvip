@@ -1,0 +1,34 @@
+
+BG_Photograph.png
+size: 377,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Photo1
+  rotate: true
+  xy: 2, 6
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+Photo2
+  rotate: false
+  xy: 307, 25
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+Photo3
+  rotate: false
+  xy: 111, 2
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+Photo4
+  rotate: false
+  xy: 201, 27
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1

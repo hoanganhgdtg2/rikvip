@@ -1,0 +1,83 @@
+
+UI_Rocket_BigWin.png
+size: 410,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_Long/Fire_Long_1
+  rotate: false
+  xy: 127, 410
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Long/Fire_Long_2
+  rotate: false
+  xy: 263, 410
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Long/Fire_Long_3
+  rotate: false
+  xy: 127, 274
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Long/Fire_Long_4
+  rotate: false
+  xy: 263, 274
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Long/Fire_Long_5
+  rotate: false
+  xy: 2, 138
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Short/Fire_Short_1
+  rotate: false
+  xy: 2, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Short/Fire_Short_2
+  rotate: false
+  xy: 138, 138
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Short/Fire_Short_3
+  rotate: false
+  xy: 138, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_Short/Fire_Short_4
+  rotate: false
+  xy: 274, 138
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Rocket
+  rotate: false
+  xy: 2, 284
+  size: 123, 260
+  orig: 123, 260
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 274, 92
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

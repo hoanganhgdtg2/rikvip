@@ -1,0 +1,146 @@
+
+dai chien.png
+size: 1854,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGround
+  rotate: true
+  xy: 416, 137
+  size: 258, 373
+  orig: 258, 373
+  offset: 0, 0
+  index: -1
+anh sang mieng
+  rotate: true
+  xy: 1155, 45
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+con tau ma
+  rotate: true
+  xy: 1157, 143
+  size: 252, 278
+  orig: 252, 278
+  offset: 0, 0
+  index: -1
+dien_00
+  rotate: true
+  xy: 573, 1
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+dien_01
+  rotate: true
+  xy: 730, 1
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+dien_02
+  rotate: true
+  xy: 416, 1
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+dong tien rot
+  rotate: false
+  xy: 1, 6
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+gorila
+  rotate: true
+  xy: 1437, 187
+  size: 208, 313
+  orig: 208, 313
+  offset: 0, 0
+  index: -1
+ham duoi
+  rotate: false
+  xy: 1792, 266
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+highlight - Smart Object Group
+  rotate: true
+  xy: 791, 142
+  size: 253, 364
+  orig: 253, 364
+  offset: 0, 0
+  index: -1
+khac dien
+  rotate: false
+  xy: 274, 16
+  size: 132, 111
+  orig: 132, 111
+  offset: 0, 0
+  index: -1
+khung icon
+  rotate: true
+  xy: 1, 129
+  size: 266, 413
+  orig: 266, 413
+  offset: 0, 0
+  index: -1
+khung tien
+  rotate: true
+  xy: 1752, 193
+  size: 202, 38
+  orig: 202, 38
+  offset: 0, 0
+  index: -1
+logo_DCTBD
+  rotate: false
+  xy: 1, 16
+  size: 271, 111
+  orig: 271, 111
+  offset: 0, 0
+  index: -1
+mat nuoc
+  rotate: false
+  xy: 1437, 22
+  size: 266, 163
+  orig: 266, 163
+  offset: 0, 0
+  index: -1
+ngoi sao
+  rotate: false
+  xy: 1155, 14
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+ngon song
+  rotate: false
+  xy: 887, 9
+  size: 266, 131
+  orig: 266, 131
+  offset: 0, 0
+  index: -1
+splash
+  rotate: true
+  xy: 1792, 328
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+sung
+  rotate: false
+  xy: 1792, 230
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tay gorilla
+  rotate: false
+  xy: 1705, 7
+  size: 145, 178
+  orig: 145, 178
+  offset: 0, 0
+  index: -1

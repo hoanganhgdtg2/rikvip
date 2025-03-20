@@ -1,0 +1,174 @@
+
+UI_Logo.png
+size: 176,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C
+  rotate: false
+  xy: 152, 198
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+C_Glow
+  rotate: true
+  xy: 2, 2
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+C_Shadow
+  rotate: false
+  xy: 133, 154
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+C_Shine
+  rotate: true
+  xy: 48, 35
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 89, 68
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+E_Glow
+  rotate: true
+  xy: 104, 197
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+E_Shadow
+  rotate: false
+  xy: 147, 237
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+E_Shine
+  rotate: false
+  xy: 147, 78
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 50, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+K_Glow
+  rotate: false
+  xy: 104, 232
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+K_Shadow
+  rotate: true
+  xy: 52, 107
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+K_Shine
+  rotate: false
+  xy: 89, 31
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 58, 202
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+L_Glow
+  rotate: false
+  xy: 2, 193
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+L_Shadow
+  rotate: false
+  xy: 2, 111
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+L_Shine
+  rotate: false
+  xy: 2, 35
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 131, 115
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+U_Glow
+  rotate: false
+  xy: 52, 145
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+U_Shadow
+  rotate: false
+  xy: 95, 154
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+U_Shine
+  rotate: false
+  xy: 122, 35
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Y
+  rotate: false
+  xy: 115, 72
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Y_Glow
+  rotate: false
+  xy: 48, 59
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Y_Shadow
+  rotate: false
+  xy: 95, 111
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Y_Shine
+  rotate: true
+  xy: 122, 3
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1

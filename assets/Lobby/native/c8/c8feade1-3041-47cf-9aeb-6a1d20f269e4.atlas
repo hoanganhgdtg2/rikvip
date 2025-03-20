@@ -1,0 +1,132 @@
+
+khung_icon_game_tothemoon.png
+size: 1232,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS_1
+  rotate: true
+  xy: 1049, 344
+  size: 189, 181
+  orig: 189, 181
+  offset: 0, 0
+  index: -1
+AS_2
+  rotate: false
+  xy: 2, 14
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+AS_3
+  rotate: false
+  xy: 129, 28
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 416, 275
+  size: 258, 371
+  orig: 258, 371
+  offset: 0, 0
+  index: -1
+BG_2
+  rotate: false
+  xy: 789, 167
+  size: 258, 366
+  orig: 258, 366
+  offset: 0, 0
+  index: -1
+dog
+  rotate: true
+  xy: 2, 67
+  size: 198, 208
+  orig: 198, 208
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: true
+  xy: 416, 20
+  size: 253, 364
+  orig: 253, 364
+  offset: 0, 0
+  index: -1
+khung_icon
+  rotate: true
+  xy: 2, 267
+  size: 266, 412
+  orig: 266, 412
+  offset: 0, 0
+  index: -1
+khung_tien
+  rotate: true
+  xy: 212, 7
+  size: 258, 139
+  orig: 258, 139
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 1049, 166
+  size: 176, 88
+  orig: 176, 88
+  offset: 0, 0
+  index: -1
+logo_1
+  rotate: false
+  xy: 782, 85
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+logo_2
+  rotate: false
+  xy: 952, 84
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+logo_3
+  rotate: false
+  xy: 782, 3
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+logo_4
+  rotate: false
+  xy: 952, 2
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+logo_5
+  rotate: true
+  xy: 1139, 174
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+logo_6
+  rotate: true
+  xy: 1139, 4
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 175, 34
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 55, 17
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1

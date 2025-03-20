@@ -1,0 +1,104 @@
+
+Symbol_K.png
+size: 567,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gem
+  rotate: false
+  xy: 322, 169
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+Gem2
+  rotate: false
+  xy: 322, 5
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+Gem_1
+  rotate: false
+  xy: 508, 232
+  size: 52, 99
+  orig: 52, 99
+  offset: 0, 0
+  index: -1
+Ghost
+  rotate: false
+  xy: 457, 210
+  size: 49, 121
+  orig: 49, 121
+  offset: 0, 0
+  index: -1
+Light_Gem
+  rotate: false
+  xy: 2, 9
+  size: 318, 322
+  orig: 318, 322
+  offset: 0, 0
+  index: -1
+Ruby
+  rotate: false
+  xy: 457, 30
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 511, 136
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 511, 178
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 497, 2
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+i2
+  rotate: false
+  xy: 536, 46
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 497, 48
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 510, 94
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 457, 96
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+w2
+  rotate: true
+  xy: 457, 152
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1

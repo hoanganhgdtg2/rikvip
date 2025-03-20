@@ -1,0 +1,132 @@
+
+Symbol_A.png
+size: 863,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 744, 104
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+A_Glow
+  rotate: false
+  xy: 771, 6
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Badge
+  rotate: false
+  xy: 312, 3
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 744, 53
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+C_Glow
+  rotate: false
+  xy: 825, 28
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 2, 3
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 775, 42
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+E_Glow
+  rotate: true
+  xy: 826, 74
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Light_Badge
+  rotate: false
+  xy: 458, 3
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+Light_Circle
+  rotate: false
+  xy: 157, 3
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+R
+  rotate: true
+  xy: 782, 123
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+R_Glow
+  rotate: false
+  xy: 800, 5
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 782, 94
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+S_Glow
+  rotate: true
+  xy: 825, 6
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 604, 13
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 775, 67
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+T_2
+  rotate: false
+  xy: 744, 2
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+T_Glow
+  rotate: false
+  xy: 835, 116
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

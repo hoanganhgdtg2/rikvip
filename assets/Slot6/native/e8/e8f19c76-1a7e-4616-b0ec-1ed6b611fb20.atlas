@@ -1,0 +1,160 @@
+
+UI_FreeSpin_Popup.png
+size: 1064,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: true
+  xy: 529, 290
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+Back_Frame
+  rotate: true
+  xy: 2, 205
+  size: 832, 465
+  orig: 832, 465
+  offset: 0, 0
+  index: -1
+Back_Hat
+  rotate: false
+  xy: 2, 4
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1
+Badge
+  rotate: true
+  xy: 578, 371
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 685, 239
+  size: 222, 389
+  orig: 222, 389
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: true
+  xy: 956, 543
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 956, 652
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+Fr
+  rotate: true
+  xy: 469, 208
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+Front_Hair
+  rotate: false
+  xy: 234, 2
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Front_Hat
+  rotate: true
+  xy: 956, 796
+  size: 241, 63
+  orig: 241, 63
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: true
+  xy: 909, 260
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 909, 334
+  size: 184, 153
+  orig: 184, 153
+  offset: 0, 0
+  index: -1
+L_Coat
+  rotate: true
+  xy: 569, 223
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+Light_Badge
+  rotate: true
+  xy: 578, 268
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+Light_Circle
+  rotate: false
+  xy: 469, 367
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 469, 474
+  size: 182, 154
+  orig: 182, 154
+  offset: 0, 0
+  index: -1
+R_Coat
+  rotate: false
+  xy: 909, 520
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 469, 630
+  size: 407, 485
+  orig: 407, 485
+  offset: 0, 0
+  index: -1
+Tam
+  rotate: false
+  xy: 289, 9
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 685, 37
+  size: 373, 200
+  orig: 373, 200
+  offset: 0, 0
+  index: -1
+Up
+  rotate: false
+  xy: 2, 41
+  size: 681, 162
+  orig: 681, 162
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 469, 299
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1

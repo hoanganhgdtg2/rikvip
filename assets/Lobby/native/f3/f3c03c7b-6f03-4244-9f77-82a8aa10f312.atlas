@@ -1,0 +1,41 @@
+
+ev.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 270, 128
+  size: 143, 377
+  orig: 143, 377
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 415, 218
+  size: 170, 287
+  orig: 170, 287
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 258, 100
+  orig: 258, 100
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 587, 431
+  size: 223, 74
+  orig: 223, 74
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 104
+  size: 266, 401
+  orig: 266, 401
+  offset: 0, 0
+  index: -1

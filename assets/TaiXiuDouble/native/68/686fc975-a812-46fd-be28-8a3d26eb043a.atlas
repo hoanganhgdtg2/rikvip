@@ -1,0 +1,20 @@
+
+loading.png
+size: 248, 146
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Xoay_tron_cai_nay_luc_dem
+  rotate: true
+  xy: 2, 2
+  size: 142, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+bentrong
+  rotate: true
+  xy: 148, 42
+  size: 102, 98
+  orig: 144, 144
+  offset: 21, 24
+  index: -1

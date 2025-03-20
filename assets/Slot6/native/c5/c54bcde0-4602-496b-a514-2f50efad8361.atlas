@@ -1,0 +1,209 @@
+
+Symbol_3.png
+size: 783,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_B_L
+  rotate: false
+  xy: 697, 77
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 596, 17
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+Body_B
+  rotate: true
+  xy: 233, 3
+  size: 262, 123
+  orig: 262, 123
+  offset: 0, 0
+  index: -1
+BrowL
+  rotate: false
+  xy: 51, 2
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+BrowR
+  rotate: false
+  xy: 97, 4
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Candy_Blue
+  rotate: false
+  xy: 191, 7
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Candy_Green
+  rotate: false
+  xy: 178, 7
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Candy_Red
+  rotate: true
+  xy: 199, 23
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Candy_Yellow
+  rotate: false
+  xy: 203, 10
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Effect_A
+  rotate: false
+  xy: 51, 13
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+Eyelid
+  rotate: false
+  xy: 2, 2
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Face_N
+  rotate: true
+  xy: 490, 168
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+Face_N_Red
+  rotate: true
+  xy: 587, 168
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+Forearm_B_L
+  rotate: true
+  xy: 684, 116
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 36
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+Hand_B_R
+  rotate: true
+  xy: 500, 6
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+Hand_Candy
+  rotate: true
+  xy: 490, 91
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+Hands
+  rotate: false
+  xy: 426, 109
+  size: 62, 156
+  orig: 62, 156
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 358, 83
+  size: 182, 66
+  orig: 182, 66
+  offset: 0, 0
+  index: -1
+Hat_B
+  rotate: false
+  xy: 358, 9
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+LEye
+  rotate: true
+  xy: 152, 3
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 684, 170
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 9
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+Mouth_Top
+  rotate: false
+  xy: 97, 17
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+REye
+  rotate: false
+  xy: 117, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Smoke_1
+  rotate: true
+  xy: 601, 103
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+Teeth
+  rotate: true
+  xy: 166, 2
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 134, 3
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+refbrow
+  rotate: false
+  xy: 150, 20
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1

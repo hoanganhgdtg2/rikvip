@@ -1,0 +1,139 @@
+
+icon_livecasino.png
+size: 1779,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 1728, 38
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 784, 17
+  size: 251, 359
+  orig: 251, 359
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 1682, 30
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+C copy 2
+  rotate: false
+  xy: 1145, 5
+  size: 217, 53
+  orig: 217, 53
+  offset: 0, 0
+  index: -1
+Group 25 copy 2
+  rotate: true
+  xy: 418, 15
+  size: 253, 364
+  orig: 253, 364
+  offset: 0, 0
+  index: -1
+Group 60
+  rotate: true
+  xy: 1, 2
+  size: 266, 415
+  orig: 266, 415
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 1441, 64
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 1619, 3
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+O
+  rotate: true
+  xy: 1682, 85
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 1564, 1
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+e1 copy
+  rotate: false
+  xy: 1507, 37
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+khungcasino
+  rotate: false
+  xy: 1441, 157
+  size: 239, 111
+  orig: 239, 111
+  offset: 0, 0
+  index: -1
+live
+  rotate: false
+  xy: 1439, 17
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+mat nham
+  rotate: false
+  xy: 1364, 3
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: true
+  xy: 1145, 60
+  size: 208, 294
+  orig: 208, 294
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 1569, 45
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+tay phai
+  rotate: false
+  xy: 1682, 137
+  size: 93, 131
+  orig: 93, 131
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 1441, 88
+  size: 67, 126
+  orig: 67, 126
+  offset: 0, 0
+  index: -1
+toc soi
+  rotate: true
+  xy: 1364, 21
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1

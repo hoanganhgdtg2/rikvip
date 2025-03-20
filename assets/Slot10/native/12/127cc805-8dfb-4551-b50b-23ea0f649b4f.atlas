@@ -1,0 +1,132 @@
+
+UI_FreeG_Popup.png
+size: 769,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blossom_1
+  rotate: true
+  xy: 554, 185
+  size: 239, 103
+  orig: 239, 103
+  offset: 0, 0
+  index: -1
+Blossom_2
+  rotate: false
+  xy: 659, 161
+  size: 102, 263
+  orig: 102, 263
+  offset: 0, 0
+  index: -1
+Coin_1
+  rotate: false
+  xy: 652, 16
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+Coin_2
+  rotate: false
+  xy: 712, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Coin_3
+  rotate: true
+  xy: 712, 42
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Coin_4
+  rotate: true
+  xy: 751, 20
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Coin_5
+  rotate: true
+  xy: 689, 523
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Coin_6
+  rotate: false
+  xy: 689, 567
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Flower_1
+  rotate: true
+  xy: 2, 4
+  size: 94, 276
+  orig: 94, 276
+  offset: 0, 0
+  index: -1
+Flower_2
+  rotate: true
+  xy: 280, 8
+  size: 90, 277
+  orig: 90, 277
+  offset: 0, 0
+  index: -1
+Lotus
+  rotate: false
+  xy: 652, 68
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+Lotus_Leaf
+  rotate: true
+  xy: 559, 33
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+Lotus_Leaf_2
+  rotate: true
+  xy: 554, 611
+  size: 157, 151
+  orig: 157, 151
+  offset: 0, 0
+  index: -1
+Roll
+  rotate: false
+  xy: 2, 435
+  size: 550, 333
+  orig: 550, 333
+  offset: 0, 0
+  index: -1
+Roll_Glow
+  rotate: false
+  xy: 2, 100
+  size: 550, 333
+  orig: 550, 333
+  offset: 0, 0
+  index: -1
+Shadow_Top
+  rotate: true
+  xy: 689, 469
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Stick
+  rotate: false
+  xy: 741, 41
+  size: 16, 118
+  orig: 16, 118
+  offset: 0, 0
+  index: -1
+Tube
+  rotate: false
+  xy: 554, 426
+  size: 133, 183
+  orig: 133, 183
+  offset: 0, 0
+  index: -1

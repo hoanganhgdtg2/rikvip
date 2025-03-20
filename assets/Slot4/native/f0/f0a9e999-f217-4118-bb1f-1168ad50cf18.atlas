@@ -1,0 +1,118 @@
+
+Symbol_5.png
+size: 675,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 159, 9
+  size: 155, 141
+  orig: 155, 141
+  offset: 0, 0
+  index: -1
+EffGlow2
+  rotate: false
+  xy: 2, 9
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 449, 242
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+Frame_Bright
+  rotate: true
+  xy: 302, 19
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+HoLo
+  rotate: false
+  xy: 539, 120
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+HoLo Shadow
+  rotate: false
+  xy: 452, 108
+  size: 85, 132
+  orig: 85, 132
+  offset: 0, 0
+  index: -1
+HoLo2
+  rotate: true
+  xy: 553, 46
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+Ribbon_Left
+  rotate: false
+  xy: 613, 199
+  size: 27, 94
+  orig: 27, 94
+  offset: 0, 0
+  index: -1
+Ribbon_Right
+  rotate: true
+  xy: 302, 2
+  size: 15, 74
+  orig: 15, 74
+  offset: 0, 0
+  index: -1
+Smoke_A
+  rotate: true
+  xy: 553, 14
+  size: 30, 95
+  orig: 30, 95
+  offset: 0, 0
+  index: -1
+Smoke_B
+  rotate: false
+  xy: 612, 295
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+Smoke_BG
+  rotate: false
+  xy: 245, 182
+  size: 202, 208
+  orig: 202, 208
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 452, 13
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+glowvang
+  rotate: false
+  xy: 2, 166
+  size: 241, 224
+  orig: 241, 224
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 264, 166
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+nap
+  rotate: true
+  xy: 245, 166
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

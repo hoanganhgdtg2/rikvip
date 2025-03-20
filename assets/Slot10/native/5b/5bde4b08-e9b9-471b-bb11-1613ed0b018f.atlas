@@ -1,0 +1,20 @@
+
+Symbol_6.png
+size: 181,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rice/Rice
+  rotate: false
+  xy: 2, 2
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+Rice/light
+  rotate: false
+  xy: 141, 38
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

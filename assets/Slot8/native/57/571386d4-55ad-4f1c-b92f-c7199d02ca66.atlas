@@ -1,0 +1,34 @@
+
+BonusG_Dracular.png
+size: 869,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao1
+  rotate: true
+  xy: 460, 2
+  size: 230, 319
+  orig: 230, 319
+  offset: 0, 0
+  index: -1
+ao2
+  rotate: false
+  xy: 2, 6
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 781, 114
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 2, 60
+  size: 456, 172
+  orig: 456, 172
+  offset: 0, 0
+  index: -1

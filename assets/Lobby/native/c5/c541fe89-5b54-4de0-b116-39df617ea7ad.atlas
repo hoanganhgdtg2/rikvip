@@ -1,0 +1,76 @@
+
+Effect_Tagx4.png
+size: 712,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect
+  rotate: true
+  xy: 1, 24
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+partivle
+  rotate: false
+  xy: 1, 1
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tag
+  rotate: false
+  xy: 358, 9
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+tag150
+  rotate: false
+  xy: 280, 9
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+tag250
+  rotate: false
+  xy: 199, 9
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+tag270
+  rotate: false
+  xy: 118, 9
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+tagx2
+  rotate: false
+  xy: 429, 9
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+tagx3
+  rotate: false
+  xy: 500, 9
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+tagx5
+  rotate: false
+  xy: 571, 9
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+tagx6
+  rotate: false
+  xy: 642, 9
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1

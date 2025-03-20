@@ -1,0 +1,356 @@
+
+Symbol_O.png
+size: 961,837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 756, 297
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 551, 354
+  size: 184, 82
+  orig: 184, 82
+  offset: 0, 0
+  index: -1
+Ca
+  rotate: false
+  xy: 753, 7
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+Ca_FX
+  rotate: false
+  xy: 622, 2
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 909, 605
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_00
+  rotate: false
+  xy: 860, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_01
+  rotate: false
+  xy: 910, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_02
+  rotate: true
+  xy: 210, 233
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_03
+  rotate: false
+  xy: 304, 535
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_04
+  rotate: true
+  xy: 893, 633
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_05
+  rotate: false
+  xy: 953, 787
+  size: 6, 48
+  orig: 6, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_06
+  rotate: true
+  xy: 539, 21
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_07
+  rotate: true
+  xy: 476, 590
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_08
+  rotate: true
+  xy: 708, 190
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Coin/Dogecoin_09
+  rotate: false
+  xy: 906, 135
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Coins
+  rotate: false
+  xy: 117, 17
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 906, 98
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Frame1
+  rotate: false
+  xy: 551, 438
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+Frame2
+  rotate: false
+  xy: 684, 628
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+FrameDecor
+  rotate: false
+  xy: 2, 65
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+FrameDecor_Glow
+  rotate: false
+  xy: 476, 625
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+Frame_Glow
+  rotate: false
+  xy: 342, 376
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+Gradient_Circle
+  rotate: false
+  xy: 893, 656
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 738, 449
+  size: 169, 177
+  orig: 169, 177
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: false
+  xy: 844, 9
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 492, 2
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+K1
+  rotate: true
+  xy: 860, 185
+  size: 8, 71
+  orig: 8, 71
+  offset: 0, 0
+  index: -1
+Out_Glow_2
+  rotate: false
+  xy: 544, 190
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+Polkadot_01
+  rotate: false
+  xy: 210, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R1
+  rotate: true
+  xy: 893, 722
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+R1_Glow
+  rotate: false
+  xy: 2, 5
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+R2
+  rotate: true
+  xy: 708, 234
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+R2_Glow
+  rotate: false
+  xy: 738, 401
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+RadialGlow
+  rotate: false
+  xy: 340, 22
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Shockwave14
+  rotate: false
+  xy: 2, 277
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: true
+  xy: 756, 241
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+Smoke2
+  rotate: true
+  xy: 758, 185
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+Smoke3
+  rotate: false
+  xy: 850, 299
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+SmokeS1
+  rotate: false
+  xy: 850, 83
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+Smoke_Round
+  rotate: false
+  xy: 752, 87
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Splash
+  rotate: false
+  xy: 492, 44
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Splash2
+  rotate: false
+  xy: 622, 60
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TechCircle
+  rotate: false
+  xy: 342, 174
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Voi
+  rotate: false
+  xy: 210, 27
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+Voi_FX
+  rotate: false
+  xy: 858, 245
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+leak
+  rotate: false
+  xy: 260, 233
+  size: 80, 300
+  orig: 80, 300
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 695, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+rad3
+  rotate: false
+  xy: 2, 535
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 858, 415
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tech
+  rotate: false
+  xy: 304, 585
+  size: 170, 250
+  orig: 170, 250
+  offset: 0, 0
+  index: -1

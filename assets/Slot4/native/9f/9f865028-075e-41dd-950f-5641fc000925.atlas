@@ -1,0 +1,125 @@
+
+BTQH_TrialMode.png
+size: 450,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChoiThat
+  rotate: true
+  xy: 206, 38
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+ChoiThatLight
+  rotate: true
+  xy: 237, 168
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+ChoiThu
+  rotate: true
+  xy: 267, 48
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+ChoiThuLight
+  rotate: false
+  xy: 325, 50
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+DaoChoiThat
+  rotate: true
+  xy: 2, 2
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+DaoChoiThatGlow
+  rotate: false
+  xy: 392, 62
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+DaoChoiThatLight
+  rotate: true
+  xy: 104, 2
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+La1
+  rotate: false
+  xy: 298, 198
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+La1Light
+  rotate: true
+  xy: 325, 108
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+La2
+  rotate: false
+  xy: 237, 115
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+La2Light
+  rotate: true
+  xy: 390, 162
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+La3
+  rotate: false
+  xy: 359, 10
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+La3Light
+  rotate: false
+  xy: 267, 7
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+fireflies
+  rotate: false
+  xy: 371, 118
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+lagiua
+  rotate: false
+  xy: 2, 106
+  size: 116, 137
+  orig: 116, 137
+  offset: 0, 0
+  index: -1
+laphai
+  rotate: false
+  xy: 120, 115
+  size: 57, 128
+  orig: 57, 128
+  offset: 0, 0
+  index: -1
+latrai
+  rotate: false
+  xy: 179, 115
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1

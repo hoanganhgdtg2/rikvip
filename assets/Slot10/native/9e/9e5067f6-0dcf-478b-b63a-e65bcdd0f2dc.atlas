@@ -1,0 +1,153 @@
+
+Symbol_2.png
+size: 459,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 134
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+BG_Dodge
+  rotate: false
+  xy: 294, 145
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+Boder_BG_Dodge
+  rotate: false
+  xy: 2, 3
+  size: 149, 129
+  orig: 149, 129
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 153, 62
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Body_Glow
+  rotate: false
+  xy: 207, 11
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Coin_1
+  rotate: true
+  xy: 415, 45
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Coin_2
+  rotate: false
+  xy: 358, 2
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Coin_3
+  rotate: true
+  xy: 386, 41
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+Coin_4
+  rotate: true
+  xy: 427, 92
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+Coin_5
+  rotate: false
+  xy: 310, 2
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Coin_6
+  rotate: true
+  xy: 351, 29
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Coin_7
+  rotate: false
+  xy: 310, 33
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Coin_8
+  rotate: true
+  xy: 272, 5
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Coin_Mouth
+  rotate: true
+  xy: 434, 213
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 434, 242
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Light_2
+  rotate: false
+  xy: 309, 69
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Light_Circle
+  rotate: false
+  xy: 155, 128
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Right_Leg
+  rotate: true
+  xy: 434, 191
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Right_Leg_1
+  rotate: true
+  xy: 385, 87
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Right_Leg_2
+  rotate: true
+  xy: 153, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Shadow_Character
+  rotate: true
+  xy: 259, 63
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1

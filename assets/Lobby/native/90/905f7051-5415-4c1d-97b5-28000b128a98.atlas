@@ -1,0 +1,286 @@
+
+BTQN_Banner.png
+size: 913,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ao_blue
+  rotate: true
+  xy: 665, 609
+  size: 161, 232
+  orig: 161, 232
+  offset: 0, 0
+  index: -1
+Bat/Bat_0000_8
+  rotate: false
+  xy: 551, 106
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0001_7
+  rotate: false
+  xy: 638, 106
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0002_6
+  rotate: false
+  xy: 551, 316
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0003_5
+  rotate: false
+  xy: 725, 106
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0004_4
+  rotate: false
+  xy: 812, 70
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0005_3
+  rotate: false
+  xy: 665, 2
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0006_2
+  rotate: false
+  xy: 752, 2
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0007_1
+  rotate: false
+  xy: 551, 248
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bat/Bat_0008_0
+  rotate: false
+  xy: 551, 180
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Bg_Add
+  rotate: true
+  xy: 388, 106
+  size: 262, 161
+  orig: 262, 161
+  offset: 0, 0
+  index: -1
+Bg_F
+  rotate: false
+  xy: 270, 370
+  size: 262, 400
+  orig: 262, 400
+  offset: 0, 0
+  index: -1
+Body_red
+  rotate: false
+  xy: 2, 9
+  size: 174, 346
+  orig: 174, 346
+  offset: 0, 0
+  index: -1
+Char_blue
+  rotate: true
+  xy: 703, 453
+  size: 154, 175
+  orig: 154, 175
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 357
+  size: 266, 413
+  orig: 266, 413
+  offset: 0, 0
+  index: -1
+Hair_Left_1_red
+  rotate: false
+  xy: 814, 252
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+Hair_Left_2_red
+  rotate: true
+  xy: 386, 5
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Hair_Right_1_Glow_red
+  rotate: true
+  xy: 814, 138
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+Hair_Right_1_red
+  rotate: true
+  xy: 665, 75
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+Hair_Right_2_red
+  rotate: true
+  xy: 850, 308
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+Hair_Right_Fill_red
+  rotate: false
+  xy: 850, 423
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+HoaToc_blue
+  rotate: true
+  xy: 880, 501
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Logo_F
+  rotate: false
+  xy: 460, 3
+  size: 203, 101
+  orig: 203, 101
+  offset: 0, 0
+  index: -1
+Quyen_Nang_Add
+  rotate: true
+  xy: 880, 351
+  size: 148, 29
+  orig: 148, 29
+  offset: 0, 0
+  index: -1
+Spakle
+  rotate: false
+  xy: 333, 2
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Tay_blue
+  rotate: false
+  xy: 534, 675
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+body_green
+  rotate: false
+  xy: 684, 310
+  size: 164, 141
+  orig: 164, 141
+  offset: 0, 0
+  index: -1
+coao1_yellow
+  rotate: false
+  xy: 880, 532
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+coao2_yellow
+  rotate: true
+  xy: 659, 570
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+dau_yellow
+  rotate: true
+  xy: 814, 182
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+icon to1
+  rotate: false
+  xy: 178, 55
+  size: 208, 300
+  orig: 208, 300
+  offset: 0, 0
+  index: -1
+light_F
+  rotate: false
+  xy: 839, 2
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+particle_texture
+  rotate: false
+  xy: 551, 567
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+tay_green
+  rotate: true
+  xy: 178, 2
+  size: 51, 153
+  orig: 51, 153
+  offset: 0, 0
+  index: -1
+than_yellow
+  rotate: true
+  xy: 534, 384
+  size: 181, 148
+  orig: 181, 148
+  offset: 0, 0
+  index: -1
+toc1_green
+  rotate: true
+  xy: 388, 55
+  size: 24, 62
+  orig: 24, 62
+  offset: 0, 0
+  index: -1
+toc1_yellow
+  rotate: true
+  xy: 270, 361
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+toc2_green
+  rotate: true
+  xy: 388, 81
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+toc2_yellow
+  rotate: false
+  xy: 534, 646
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+toc3_green_glow
+  rotate: true
+  xy: 665, 174
+  size: 134, 147
+  orig: 134, 147
+  offset: 0, 0
+  index: -1

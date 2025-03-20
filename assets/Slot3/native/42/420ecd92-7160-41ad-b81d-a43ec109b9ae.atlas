@@ -1,0 +1,62 @@
+
+Btn_TrialMode.png
+size: 212,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Antel
+  rotate: false
+  xy: 2, 89
+  size: 88, 100
+  orig: 88, 100
+  offset: 0, 0
+  index: -1
+Choi That
+  rotate: false
+  xy: 33, 54
+  size: 129, 31
+  orig: 129, 31
+  offset: 0, 0
+  index: -1
+Choi Thu
+  rotate: false
+  xy: 92, 87
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+Lamp
+  rotate: false
+  xy: 33, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Model
+  rotate: false
+  xy: 92, 117
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1
+Wifi_1
+  rotate: true
+  xy: 164, 36
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+Wifi_2
+  rotate: true
+  xy: 2, 2
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+Wifi_3
+  rotate: false
+  xy: 33, 14
+  size: 122, 38
+  orig: 122, 38
+  offset: 0, 0
+  index: -1

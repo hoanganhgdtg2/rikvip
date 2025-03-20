@@ -1,0 +1,118 @@
+
+Crystal_Jackpot.png
+size: 943,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diamond_Green
+  rotate: false
+  xy: 367, 355
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Green_Bright
+  rotate: false
+  xy: 511, 355
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Green_Glow
+  rotate: false
+  xy: 2, 2
+  size: 180, 317
+  orig: 180, 317
+  offset: 0, 0
+  index: -1
+Diamond_Purple
+  rotate: false
+  xy: 655, 355
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Purple_Bright
+  rotate: false
+  xy: 799, 355
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Purple_Glow
+  rotate: false
+  xy: 184, 3
+  size: 180, 316
+  orig: 180, 316
+  offset: 0, 0
+  index: -1
+Diamond_Red
+  rotate: true
+  xy: 367, 211
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Red_Bright
+  rotate: true
+  xy: 652, 211
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Red_Glow
+  rotate: false
+  xy: 2, 321
+  size: 181, 317
+  orig: 181, 317
+  offset: 0, 0
+  index: -1
+Diamond_Yellow
+  rotate: true
+  xy: 366, 67
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Yellow_Bright
+  rotate: true
+  xy: 651, 67
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+Diamond_Yellow_Glow
+  rotate: false
+  xy: 185, 321
+  size: 180, 317
+  orig: 180, 317
+  offset: 0, 0
+  index: -1
+Glow_Small_Green
+  rotate: false
+  xy: 366, 47
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Glow_Small_Purple
+  rotate: false
+  xy: 366, 27
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Glow_Small_Red
+  rotate: false
+  xy: 386, 47
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Glow_Small_Yellow
+  rotate: false
+  xy: 366, 7
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Symbol_6.png
+size: 374,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 97
+  size: 155, 141
+  orig: 155, 141
+  offset: 0, 0
+  index: -1
+EffGlow2
+  rotate: false
+  xy: 2, 359
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+Fan
+  rotate: false
+  xy: 145, 108
+  size: 179, 93
+  orig: 179, 93
+  offset: 0, 0
+  index: -1
+Fan_Bright_Blur
+  rotate: false
+  xy: 2, 2
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+Fan_Detail_Bright
+  rotate: false
+  xy: 248, 13
+  size: 124, 93
+  orig: 124, 93
+  offset: 0, 0
+  index: -1
+Fan_Shadow
+  rotate: false
+  xy: 2, 254
+  size: 189, 103
+  orig: 189, 103
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 159, 366
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+Frame_Bright
+  rotate: true
+  xy: 193, 203
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+circle
+  rotate: true
+  xy: 145, 6
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 322, 499
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+UI_Jackpot_Frame.png
+size: 737,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame
+  rotate: true
+  xy: 665, 221
+  size: 191, 70
+  orig: 191, 70
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 2, 9
+  size: 403, 149
+  orig: 403, 149
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_01
+  rotate: true
+  xy: 153, 210
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_03
+  rotate: true
+  xy: 153, 6
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_05
+  rotate: true
+  xy: 230, 210
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_07
+  rotate: true
+  xy: 230, 6
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_09
+  rotate: true
+  xy: 307, 210
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_11
+  rotate: true
+  xy: 307, 6
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_13
+  rotate: false
+  xy: 384, 337
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame/VFX_Frame_15
+  rotate: true
+  xy: 588, 210
+  size: 202, 75
+  orig: 202, 75
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_02
+  rotate: true
+  xy: 665, 26
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_04
+  rotate: false
+  xy: 384, 267
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_06
+  rotate: false
+  xy: 384, 197
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_08
+  rotate: true
+  xy: 384, 2
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_10
+  rotate: true
+  xy: 454, 2
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_12
+  rotate: true
+  xy: 524, 2
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+VFX_Frame2/VFX_Frame2_14
+  rotate: true
+  xy: 594, 15
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1

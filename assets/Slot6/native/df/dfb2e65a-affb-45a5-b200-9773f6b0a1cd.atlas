@@ -1,0 +1,370 @@
+
+UI_Jackpot.png
+size: 2001,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1135, 386
+  size: 173, 248
+  orig: 173, 248
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 417, 11
+  size: 98, 33
+  orig: 98, 33
+  offset: 0, 0
+  index: -1
+Detail_1
+  rotate: false
+  xy: 1310, 349
+  size: 206, 52
+  orig: 206, 52
+  offset: 0, 0
+  index: -1
+Detail_2
+  rotate: true
+  xy: 517, 2
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Detail_3
+  rotate: false
+  xy: 1464, 153
+  size: 65, 194
+  orig: 65, 194
+  offset: 0, 0
+  index: -1
+Fabric_1
+  rotate: false
+  xy: 1540, 377
+  size: 185, 94
+  orig: 185, 94
+  offset: 0, 0
+  index: -1
+Fabric_2
+  rotate: true
+  xy: 1873, 258
+  size: 132, 47
+  orig: 132, 47
+  offset: 0, 0
+  index: -1
+Fabric_Neck
+  rotate: true
+  xy: 417, 46
+  size: 102, 207
+  orig: 102, 207
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2, 14
+  size: 157, 262
+  orig: 157, 262
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 1732, 199
+  size: 139, 67
+  orig: 139, 67
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1909, 393
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 1864, 84
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2, 451
+  size: 421, 111
+  orig: 421, 111
+  offset: 0, 0
+  index: -1
+Index
+  rotate: true
+  xy: 1873, 202
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+Left_Arm
+  rotate: false
+  xy: 972, 130
+  size: 171, 226
+  orig: 171, 226
+  offset: 0, 0
+  index: -1
+Left_Cloth
+  rotate: true
+  xy: 1310, 403
+  size: 80, 228
+  orig: 80, 228
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 1145, 129
+  size: 255, 147
+  orig: 255, 147
+  offset: 0, 0
+  index: -1
+Mid_Circle_1
+  rotate: false
+  xy: 626, 2
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+Mid_Circle_1_Add
+  rotate: false
+  xy: 754, 2
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+Mid_Circle_1_Glow
+  rotate: false
+  xy: 703, 337
+  size: 224, 225
+  orig: 224, 225
+  offset: 0, 0
+  index: -1
+Mid_Circle_2
+  rotate: false
+  xy: 266, 22
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+News_Grand_2
+  rotate: false
+  xy: 2, 173
+  size: 206, 276
+  orig: 206, 276
+  offset: 0, 0
+  index: -1
+News_Major_3
+  rotate: false
+  xy: 1100, 636
+  size: 206, 276
+  orig: 206, 276
+  offset: 0, 0
+  index: -1
+News_Major_4
+  rotate: false
+  xy: 210, 173
+  size: 206, 276
+  orig: 206, 276
+  offset: 0, 0
+  index: -1
+News_Major_5
+  rotate: false
+  xy: 1308, 636
+  size: 206, 276
+  orig: 206, 276
+  offset: 0, 0
+  index: -1
+News_Major_6
+  rotate: false
+  xy: 892, 635
+  size: 206, 277
+  orig: 206, 277
+  offset: 0, 0
+  index: -1
+News_Maxi_7
+  rotate: true
+  xy: 1724, 708
+  size: 204, 275
+  orig: 204, 275
+  offset: 0, 0
+  index: -1
+News_Maxi_8
+  rotate: true
+  xy: 1724, 502
+  size: 204, 275
+  orig: 204, 275
+  offset: 0, 0
+  index: -1
+News_Maxi_9
+  rotate: true
+  xy: 418, 150
+  size: 204, 275
+  orig: 204, 275
+  offset: 0, 0
+  index: -1
+News_Maxi_B
+  rotate: true
+  xy: 695, 131
+  size: 204, 275
+  orig: 204, 275
+  offset: 0, 0
+  index: -1
+News_Maxi_C
+  rotate: false
+  xy: 929, 358
+  size: 204, 275
+  orig: 204, 275
+  offset: 0, 0
+  index: -1
+Paper_1
+  rotate: true
+  xy: 1641, 227
+  size: 148, 89
+  orig: 148, 89
+  offset: 0, 0
+  index: -1
+Paper_2
+  rotate: false
+  xy: 1539, 10
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+Paper_3
+  rotate: true
+  xy: 1779, 68
+  size: 129, 83
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 1438, 22
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 1732, 268
+  size: 139, 122
+  orig: 139, 122
+  offset: 0, 0
+  index: -1
+Ray
+  rotate: false
+  xy: 1294, 179
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+Right_Cloth
+  rotate: true
+  xy: 1310, 485
+  size: 149, 259
+  orig: 149, 259
+  offset: 0, 0
+  index: -1
+Right_UpArm
+  rotate: false
+  xy: 1571, 473
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+Sign_DaBat
+  rotate: false
+  xy: 1516, 636
+  size: 206, 276
+  orig: 206, 276
+  offset: 0, 0
+  index: -1
+Sign_TimThay
+  rotate: true
+  xy: 425, 356
+  size: 206, 276
+  orig: 206, 276
+  offset: 0, 0
+  index: -1
+Table
+  rotate: false
+  xy: 2, 564
+  size: 888, 348
+  orig: 888, 348
+  offset: 0, 0
+  index: -1
+Text_H
+  rotate: false
+  xy: 1539, 64
+  size: 118, 129
+  orig: 118, 129
+  offset: 0, 0
+  index: -1
+Text_H_Glow
+  rotate: false
+  xy: 1659, 68
+  size: 118, 129
+  orig: 118, 129
+  offset: 0, 0
+  index: -1
+Text_N
+  rotate: true
+  xy: 882, 2
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
+Text_N_Glow
+  rotate: true
+  xy: 1022, 2
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
+Text_O
+  rotate: true
+  xy: 1727, 392
+  size: 108, 180
+  orig: 108, 180
+  offset: 0, 0
+  index: -1
+Text_O_Glow
+  rotate: false
+  xy: 1531, 195
+  size: 108, 180
+  orig: 108, 180
+  offset: 0, 0
+  index: -1
+Text_U
+  rotate: true
+  xy: 1162, 4
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+Text_U_Glow
+  rotate: false
+  xy: 1313, 28
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: false
+  xy: 1922, 277
+  size: 62, 114
+  orig: 62, 114
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: true
+  xy: 1947, 209
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1

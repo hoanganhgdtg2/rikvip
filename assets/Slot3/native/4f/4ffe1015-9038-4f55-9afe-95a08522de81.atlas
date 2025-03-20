@@ -1,0 +1,433 @@
+
+UI_Jackpot.png
+size: 2544,2254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 1447, 123
+  size: 227, 252
+  orig: 227, 252
+  offset: 0, 0
+  index: -1
+Blur_Yellow
+  rotate: false
+  xy: 984, 603
+  size: 467, 483
+  orig: 467, 483
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 984, 123
+  size: 454, 208
+  orig: 454, 208
+  offset: 0, 0
+  index: -1
+Body_Black
+  rotate: false
+  xy: 1462, 15
+  size: 178, 106
+  orig: 178, 106
+  offset: 0, 0
+  index: -1
+Brush
+  rotate: false
+  xy: 2135, 1009
+  size: 303, 314
+  orig: 303, 314
+  offset: 0, 0
+  index: -1
+CaR
+  rotate: false
+  xy: 1756, 420
+  size: 209, 208
+  orig: 209, 208
+  offset: 0, 0
+  index: -1
+CaX
+  rotate: true
+  xy: 1986, 62
+  size: 191, 192
+  orig: 191, 192
+  offset: 0, 0
+  index: -1
+CaX_FX
+  rotate: false
+  xy: 1701, 3
+  size: 161, 158
+  orig: 161, 158
+  offset: 0, 0
+  index: -1
+Ca_FX
+  rotate: true
+  xy: 2227, 285
+  size: 209, 208
+  orig: 209, 208
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 255, 32
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Coins
+  rotate: true
+  xy: 2437, 465
+  size: 173, 105
+  orig: 173, 105
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 2227, 255
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Finger_1
+  rotate: true
+  xy: 2135, 1365
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Finger_2
+  rotate: false
+  xy: 2101, 1033
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Finger_3
+  rotate: false
+  xy: 2370, 1338
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Finger_4
+  rotate: false
+  xy: 2515, 1673
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Flare1
+  rotate: false
+  xy: 1036, 1448
+  size: 780, 804
+  orig: 780, 804
+  offset: 0, 0
+  index: -1
+Flare2
+  rotate: false
+  xy: 2, 275
+  size: 777, 811
+  orig: 777, 811
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 1818, 1393
+  size: 859, 338
+  orig: 859, 338
+  offset: 0, 0
+  index: -1
+Frame_Bright
+  rotate: true
+  xy: 2158, 1325
+  size: 927, 210
+  orig: 927, 210
+  offset: 0, 0
+  index: -1
+Frame_CM
+  rotate: true
+  xy: 781, 295
+  size: 791, 201
+  orig: 791, 201
+  offset: 0, 0
+  index: -1
+Frame_CV
+  rotate: false
+  xy: 2, 72
+  size: 791, 201
+  orig: 791, 201
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1453, 630
+  size: 402, 421
+  orig: 402, 421
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: false
+  xy: 2440, 1011
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: false
+  xy: 2101, 706
+  size: 312, 301
+  orig: 312, 301
+  offset: 0, 0
+  index: -1
+Head_1_Black
+  rotate: false
+  xy: 1967, 517
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: true
+  xy: 2180, 16
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+Head_2_Black
+  rotate: true
+  xy: 2344, 41
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: true
+  xy: 2344, 121
+  size: 162, 141
+  orig: 162, 141
+  offset: 0, 0
+  index: -1
+Head_Back_Black
+  rotate: false
+  xy: 109, 7
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Inner Glow Thick
+  rotate: false
+  xy: 1729, 163
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+Inner Glow Thin
+  rotate: false
+  xy: 1986, 255
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 2428, 640
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+K1
+  rotate: true
+  xy: 1605, 1426
+  size: 20, 144
+  orig: 20, 144
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 1857, 636
+  size: 415, 242
+  orig: 415, 242
+  offset: 0, 0
+  index: -1
+L_Collar
+  rotate: false
+  xy: 934, 18
+  size: 290, 103
+  orig: 290, 103
+  offset: 0, 0
+  index: -1
+L_Collar_Black
+  rotate: false
+  xy: 2, 32
+  size: 105, 38
+  orig: 105, 38
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2180, 90
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1
+LineCaMap
+  rotate: true
+  xy: 2440, 1085
+  size: 266, 88
+  orig: 266, 88
+  offset: 0, 0
+  index: -1
+LineCaVoi
+  rotate: true
+  xy: 2415, 741
+  size: 266, 88
+  orig: 266, 88
+  offset: 0, 0
+  index: -1
+M_Collar
+  rotate: true
+  xy: 2437, 309
+  size: 154, 81
+  orig: 154, 81
+  offset: 0, 0
+  index: -1
+Map
+  rotate: false
+  xy: 2101, 496
+  size: 325, 208
+  orig: 325, 208
+  offset: 0, 0
+  index: -1
+Map_FX
+  rotate: false
+  xy: 1453, 463
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+Money1
+  rotate: false
+  xy: 1036, 1102
+  size: 567, 344
+  orig: 567, 344
+  offset: 0, 0
+  index: -1
+Money2
+  rotate: false
+  xy: 1605, 1053
+  size: 528, 338
+  orig: 528, 338
+  offset: 0, 0
+  index: -1
+R1
+  rotate: true
+  xy: 795, 25
+  size: 268, 137
+  orig: 268, 137
+  offset: 0, 0
+  index: -1
+R2
+  rotate: false
+  xy: 1447, 352
+  size: 280, 109
+  orig: 280, 109
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 2370, 1353
+  size: 143, 343
+  orig: 143, 343
+  offset: 0, 0
+  index: -1
+R_Collar
+  rotate: false
+  xy: 1864, 45
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+R_Collar_Black
+  rotate: false
+  xy: 2280, 39
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+R_UpArm
+  rotate: true
+  xy: 1226, 26
+  size: 95, 234
+  orig: 95, 234
+  offset: 0, 0
+  index: -1
+R_UpArm_Black
+  rotate: true
+  xy: 1864, 2
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+Shark_Body
+  rotate: false
+  xy: 984, 333
+  size: 461, 268
+  orig: 461, 268
+  offset: 0, 0
+  index: -1
+Sparkle_CM
+  rotate: false
+  xy: 189, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Teeth_1
+  rotate: true
+  xy: 1955, 106
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+Teeth_2
+  rotate: true
+  xy: 1453, 1053
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: true
+  xy: 934, 229
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+VFX_Win_Arrow
+  rotate: false
+  xy: 1642, 70
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Voi
+  rotate: true
+  xy: 2370, 1976
+  size: 276, 172
+  orig: 276, 172
+  offset: 0, 0
+  index: -1
+Voi_FX
+  rotate: true
+  xy: 2370, 1698
+  size: 276, 172
+  orig: 276, 172
+  offset: 0, 0
+  index: -1
+effect_tia_vang
+  rotate: false
+  xy: 2, 1088
+  size: 1032, 1164
+  orig: 1032, 1164
+  offset: 0, 0
+  index: -1

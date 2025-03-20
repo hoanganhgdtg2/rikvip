@@ -1,0 +1,20 @@
+
+md5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MD5
+  rotate: false
+  xy: 224, 11
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 2, 2
+  size: 220, 74
+  orig: 220, 74
+  offset: 0, 0
+  index: -1
